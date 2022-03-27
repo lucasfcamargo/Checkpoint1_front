@@ -23,7 +23,6 @@ a {
 a:hover{
    transform: scale(1.1);
    font-weight: bolder;
-
 }
 header{
     display: flex;
@@ -295,3 +294,5 @@ footer{
     }
     .footer__links a {
         padding: 20px;}
+    }
+  }
