@@ -52,7 +52,7 @@ header{
 
 
 .banner {
-    background: url(./img/Vila-Madalena.jpg);
+    background: url(/img/mada.jpg);
     ;
     width: var(--largura-max);
     height: 40vh;
